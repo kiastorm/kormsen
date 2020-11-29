@@ -36,5 +36,6 @@
   "dependencies": {
     "react": "16.13.1",
     "react-dom": "16.13.1"
-  }
+  },
+  "gitHead": "6babaae7393570d108b5fef3385749661b393e5d"
 }
