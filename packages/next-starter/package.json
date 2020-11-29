@@ -1,5 +1,5 @@
 {
-  "name": "@kormsen/next-starter",
+  "name": "@cocoon-ui/next-starter",
   "version": "0.0.1",
   "scripts": {
     "dev": "next",
@@ -8,7 +8,7 @@
     "type-check": "tsc"
   },
   "dependencies": {
-    "@kormsen/components": "^0.0.1",
+    "@cocoon-ui/components": "^0.0.1",
     "next": "latest",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"

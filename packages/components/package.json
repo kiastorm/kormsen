@@ -1,5 +1,5 @@
 {
-  "name": "@kormsen/components",
+  "name": "@cocoon-ui/components",
   "version": "0.0.1",
   "main": "build/lib/index.js",
   "types": "build/lib/index.d.ts",
